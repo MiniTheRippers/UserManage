@@ -65,12 +65,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-### 4. Migration Database
-
-```bash
-php artisan migrate
-```
-### 5. Add User
+### 4. Add User
 
 เปิด Laravel Tinker
 
@@ -92,7 +87,7 @@ php artisan tinker
 Email: admin@gmail.com
 Password: 1234
 
-### 6. Run Project
+### 5. Run Project
 
 รัน Laravel Development Server
 
