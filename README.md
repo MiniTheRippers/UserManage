@@ -45,7 +45,7 @@ cd UserManage
 composer install
 ```
 
-### Configure Environmen
+### 3. Configure Environmen
 
 สร้างไฟล์ .env จาก .env.example
 
